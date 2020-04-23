@@ -6,7 +6,7 @@ We also made landing page that you can find here: [Landing page](http://www.futu
 
 And exciting game that you can play here: [Game](http://www.futurefront.jfdd14.is-academy.pl/Game/game_worldv2.html)
 
-<img src="jfdd14-futureFront-app/src/media/game_screenshot.jpg" alt="My cool logo"/>
+<img src="/src/media/game_screenshot.jpg" alt="game screenshot"/>
 
 (if you want to check our code for landing page and game, you can do this [here](https://github.com/infoshareacademy/jfdd14-futureFront))
 
