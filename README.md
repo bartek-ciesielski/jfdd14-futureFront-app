@@ -4,7 +4,7 @@ GiftMatcher is a web application that can be used to find most suitable gift ide
 
 We also made landing page that you can find here: [Landing page](http://www.futurefront.jfdd14.is-academy.pl/)
 
-And exciting game that you can play here: [Game](http://www.futurefront.jfdd14.is-academy.pl/Game/game_worldv2.html)
+And exciting game that you can play here (desktop only): [Game](http://www.futurefront.jfdd14.is-academy.pl/Game/game_worldv2.html)
 
 <img src="/src/media/game_screenshot.jpg" alt="game screenshot"/>
 
