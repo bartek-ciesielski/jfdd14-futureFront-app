@@ -1,6 +1,6 @@
 # GiftMatcher
 
-GiftMatcher is a web application that can be used to find most suitable gift idea for our loved ones, or our own gift to existing database that will be searchable by every user. You can check our app [here](http://app.futurefront.jfdd14.is-academy.pl/)
+GiftMatcher is a web application that can be used to find most suitable gift idea for our loved ones, create lists of favorite gifts, or add your own gift to existing database that will be searchable by every user. You can check our app [here](http://app.futurefront.jfdd14.is-academy.pl/)
 
 <img src="/src/media/app_screenshot.png" alt="app screenshot"/>
 
